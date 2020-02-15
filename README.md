@@ -1,3 +1,3 @@
 # Hack4Food
 
-A complete mobility system for visually impaired
+A smart assistant for visually impaired people
